@@ -1,0 +1,11 @@
+{
+  "name": "@learning-nx/eslint-config",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "sonarjs": "^1.0.0",
+    "unicorn": "^0.0.1"
+  }
+}
